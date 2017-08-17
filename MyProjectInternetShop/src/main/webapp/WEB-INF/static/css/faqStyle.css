@@ -1,0 +1,9 @@
+.faq{list-style:url(img/left.gif);}
+#faqs {position:relative;}
+	#faqs li{ cursor:pointer; font-size:20px; margin-bottom: 3px;}
+	#faqs li.active	{ color:#d74646; list-style:url(img/niz.gif);text-shadow: none;}
+	#faqs div { height:0; overflow:hidden; position:relative; }
+	#faqs div p{ background: #ffffcc; border: 1px solid #999; border-radius: 8px; padding: 6px; margin:15px 0 15px; position:relative;}
+ 
+.ugol:before{content: url(img/ug.png);top: -14px; position: absolute; left: 77px;
+}
